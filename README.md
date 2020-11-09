@@ -10,4 +10,6 @@ My name is **Harshit Singhai** and I'm a software engineer currently based in **
 - 🌍 You can find my website here: https://harshitsinghai77.github.io/
 - 💬 How to productively work with me and avoid misunderstanding? Read my [User Manual](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea)
 - 📫 How to reach me: harshitsinghai77@gmail.com
+- 📖 You can read my work on [Medium](https://harshitsinghai77.medium.com/)
 - ⚡ Fun fact: Chelsea fan and coffeeholic. 
+- 🗿 Blog coming soon
