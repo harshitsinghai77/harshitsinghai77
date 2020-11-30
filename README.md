@@ -5,6 +5,7 @@
 
 My name is **Harshit Singhai** and I'm a software engineer currently based in **India**
 
+- 🔭 I'm working as a software engineer intern at [Deep Source](https://deepsource.io/)
 - 🔭 I’m currently contributing to [BentoML](https://github.com/bentoml/BentoML)
 - 🌱 I’m currently learning Go
 - 🌍 You can find my website here: https://harshitsinghai77.github.io/
