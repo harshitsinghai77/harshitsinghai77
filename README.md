@@ -6,8 +6,9 @@
 My name is **Harshit** and I'm a Software Engineer currently based in **India**
 
 - 🔭 I'm working as a Sofware Consultant
-- 🔭 I’m currently contributing to [BentoML](https://github.com/bentoml/BentoML)
-- 🗿 Check out my blog here [Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/)
+- 📦 I ship web3 side projects.
+- 🗿 I’m currently contributing to [BentoML](https://github.com/bentoml/BentoML)
+- 📝 Check out my blog here [Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/)
 - 🌱 I’m currently learning about Data Engineering and MLOps.
 - 🌍 You can find my website here: https://harshitsinghai77.github.io/
 - 💬 How to productively work with me and avoid misunderstanding? Read my [User Manual](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea)
