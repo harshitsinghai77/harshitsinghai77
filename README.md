@@ -3,7 +3,7 @@
 <!--
 **harshitsinghai77/harshitsinghai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is **Harshit** and I'm a software engineer currently based in **India**
+My name is **Harshit** and I'm a Software Engineer currently based in **India**
 
 - 🔭 I'm working as a Sofware Consultant
 - 🔭 I’m currently contributing to [BentoML](https://github.com/bentoml/BentoML)
