@@ -14,5 +14,6 @@ My name is **Harshit** and I'm a Software Engineer currently based in **India**
 - 🌍 You can find my website here: https://harshitsinghai77.github.io/
 - 💬 How to productively work with me and avoid misunderstanding? Read my [User Manual](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea)
 - 📫 How to reach me: harshitsinghai77@gmail.com
+- 🐦 Follow me on [Twitter](https://twitter.com/harshit_778)
 - 📖 You can read my work on [Blog](https://fictionally-irrelevant.vercel.app/)
 - ⚡ Fun fact: Chelsea fan and coffeeholic. 
