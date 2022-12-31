@@ -15,6 +15,6 @@ My name is **Harshit** and I'm a Software Engineer currently based in **India**
 - 🐦 Follow me on [Twitter](https://twitter.com/harshit_778)
 - 📫 How to reach me: harshitsinghai77@gmail.com
 - 📖 You can read about my work on [Blog](https://fictionally-irrelevant.vercel.app/)
-- - :medal_sports: [Buildspace](https://buildspace.so/) Alumni [@harshitsinghai77](https://buildspace.so/@harshitsinghai77)
+- :medal_sports: [Buildspace](https://buildspace.so/) Alumni [@harshitsinghai77](https://buildspace.so/@harshitsinghai77)
 - ⚡ Fun fact: Chelsea fan and coffeeholic. 
 - 🌍 Learn more about [me](https://harshitsinghai77.github.io/)
