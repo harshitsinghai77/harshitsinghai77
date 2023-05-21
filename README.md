@@ -3,9 +3,9 @@
 <!--
 **harshitsinghai77/harshitsinghai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is **Harshit** and I'm a **Software Engineer** currently based in India
+My name is **Harshit** and I'm a **Data Engineer** currently based in India
 
-- 🔭 I'm working as a Sofware Consultant
+- 🔭 I'm working as a Data Engineer for one of the world's largest investment companies.
 - 💻 Current side project [Nemo](https://nemo-landing-page.netlify.app/), [Nemo Threads](https://nemo-thread.deta.dev/)
 - 📦 I ship web3 projects [Loop](https://showcase.ethglobal.com/web3jam/loop), [SignatureDAO](https://signature-dao.netlify.app/), [AI Generated Messi NFT](https://messi-nft.netlify.app/).
 - 🗿 I’m currently contributing to [BentoML](https://github.com/bentoml/BentoML) and [Deta](https://github.com/deta)
