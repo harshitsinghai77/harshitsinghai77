@@ -5,17 +5,17 @@
 
 My name is **Harshit** and I'm a **Data Engineer** currently based in India
 
-- 🔭 I'm working as a Data Engineer for one of the world's largest investment companies.
-- 💻 Current side project [Nemo](https://nemo-landing-page.netlify.app/), [Nemo Threads](https://nemo-thread.deta.dev/)
-- 📦 I ship web3 projects [Loop](https://showcase.ethglobal.com/web3jam/loop), [SignatureDAO](https://signature-dao.netlify.app/), [AI Generated Messi NFT](https://messi-nft.netlify.app/).
-- 🗿 I’m currently contributing to [BentoML](https://github.com/bentoml/BentoML) and [Deta](https://github.com/deta)
-- 📝 I write blog @[Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/)
-- 🌱 I’m currently learning about AI, ML, Data Engineering and Web3.
-- 🍁 Reading about Generative AI
-- 💬 How to productively work with me and avoid misunderstanding? Read my [User Manual](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea)
-- 🐦 Follow me on [Twitter](https://twitter.com/harshit_778)
-- 📫 How to reach me: harshitsinghai77@gmail.com
-- 📖 You can read about my work on [Blog](https://fictionally-irrelevant.vercel.app/)
-- :medal_sports: [Buildspace](https://buildspace.so/) Alumni [@harshitsinghai77](https://buildspace.so/@harshitsinghai77)
-- ⚡ Fun fact: Chelsea fan and coffeeholic. 
-- 🌍 Learn more about [me](https://harshitsinghai77.github.io/)
+- 🔭 Currently working as a Data Engineer for Vanguard.
+- 💻 My current side projects include [Nemo](https://nemo-landing-page.netlify.app/) and [Nemo Threads](https://nemo-thread.deta.dev/).
+- 📦 I've shipped some web3 projects: [Loop](https://showcase.ethglobal.com/web3jam/loop), [SignatureDAO](https://signature-dao.netlify.app/), and [AI Generated Messi NFT](https://messi-nft.netlify.app/).
+- 🗿 Actively contributing to [BentoML](https://github.com/bentoml/BentoML) and [Deta](https://github.com/deta).
+- 📝 I write blogs at [Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/).
+- 🌱 Currently exploring AI, ML, Data Engineering, and Web3.
+- 📚 Passionate about Generative AI.
+- 💬 How to work effectively with me and avoid misunderstandings? Read my [User Manual](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea).
+- 🐦 Follow me on [Twitter](https://twitter.com/harshit_778).
+- 📫 Reach me at harshitsinghai77@gmail.com.
+- 📖 You can find more about my work on my [Blog](https://fictionally-irrelevant.vercel.app/posts/side-projects-2022).
+- :medal_sports: Proud [Buildspace](https://buildspace.so/) Alumni: [@harshitsinghai77](https://buildspace.so/@harshitsinghai77).
+- ⚡ Fun fact: I'm a Chelsea fan and a coffeeholic.
+- 🌍 Learn more about [me](https://harshitsinghai77.github.io/).
