@@ -6,7 +6,7 @@
 My name is **Harshit** and I'm a **Data Engineer** currently based in India
 
 - 🔭 Currently working as AWS Data Engineer at Vanguard (Deloitte).
-- 💻 My current side projects include [Nemo](https://nemo-landing-page.netlify.app/) and [Nemo Threads](https://nemo-thread.deta.dev/).
+- 💻 My current side projects include [Nemo](https://nemo-landing-page.netlify.app/), [Nemo Threads](https://nemo-thread.deta.dev/) and [Nemo HireFolio](https://nemo-hirefolio.netlify.app/).
 - 📦 I've shipped some web3 projects: [Loop](https://showcase.ethglobal.com/web3jam/loop), [SignatureDAO](https://signature-dao.netlify.app/), and [AI Generated Messi NFT](https://messi-nft.netlify.app/).
 - 🗿 Actively contributing to [BentoML](https://github.com/bentoml/BentoML) and [Deta](https://github.com/deta).
 - 📝 I write blogs at [Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/).
