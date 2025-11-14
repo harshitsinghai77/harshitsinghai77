@@ -17,5 +17,5 @@ My name is **Harshit** and I'm a **Software Engineer** currently based in India
 - 📫 Reach me at harshitsinghai77@gmail.com.
 - 📖 You can find more about my [side projects here](https://fictionally-irrelevant.vercel.app/posts/side-projects-2023).
 - ⚡ Fun fact: I'm a Chelsea fan and a coffeeholic.
-- 🌍 Learn more about [me](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea) and [Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/).
+- 🌍 Learn more about me [User Manual](https://gist.github.com/harshitsinghai77/43dc955324cd5476cb0b1ba75c124fea) and [Fictionally Irrelevant](https://fictionally-irrelevant.vercel.app/).
   <!-- - :medal_sports: Proud [Buildspace](https://buildspace.so/) Alumni: [@harshitsinghai77](https://buildspace.so/@harshitsinghai77).  -->
