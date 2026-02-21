@@ -3,9 +3,9 @@
 <!--
 **harshitsinghai77/harshitsinghai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is **Harshit** and I'm a **Software Engineer** currently based in India
+My name is **Harshit** and I'm a **AI Software Engineer** currently based in India
 
-- 🔭 Currently working as AWS Data Engineer at Vanguard (Deloitte USI).
+- 🔭 Currently working as a AI Engineer, previously worked as a AWS Data Engineer at Vanguard (Deloitte USI).
 - 💻 My current side projects include [NemoAI](https://nemo-ai.netlify.app/), [Nemo](https://nemo-landing-page.netlify.app/), [Nemo Threads(deprecated)](https://nemothread-1-e7133226.deta.app/), and [Nemo HireFolio(deprecated)](https://nemo-hirefolio.netlify.app/).
 - 📦 I've shipped some web3 projects: [Loop](https://showcase.ethglobal.com/web3jam/loop), [SignatureDAO](https://signature-dao.netlify.app/), and [AI Generated Messi NFT](https://messi-nft.netlify.app/).
 - 🗿 Actively contributing to [BentoML](https://github.com/bentoml/BentoML) and [Deta](https://github.com/deta).
